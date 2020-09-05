@@ -3,7 +3,7 @@ package com.ljm;
 /**
  * 个人数学工具
  *
- * @author Suage
+ * @author Suage (from CSDN)
  */
 
 public class SysConvert {

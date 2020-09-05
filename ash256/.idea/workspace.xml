@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ae2e021-8040-43f9-8520-7d7863f8fd8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ash256.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/ASH256Fomula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/ASH256Fomula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/FinalDataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/FinalDataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/SysConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/SysConvert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ash256.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/ASH256BasicFom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/FileOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ljm/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/Tools.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +127,7 @@
       <updated>1599187109608</updated>
       <workItem from="1599187112185" duration="28777000" />
       <workItem from="1599266223143" duration="20063000" />
-      <workItem from="1599311410549" duration="1064000" />
+      <workItem from="1599311410549" duration="1587000" />
     </task>
     <servers />
   </component>

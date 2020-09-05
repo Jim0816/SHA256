@@ -3,7 +3,7 @@ package com.ljm;
 /**
  * Package: com.ljm
  * Description：ASH256算法中使用到的基本公式
- * Author: CWH
+ * Author: Jim
  * Date:  2020/9/4 17:52
  * Modified By:
  */
