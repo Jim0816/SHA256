@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ae2e021-8040-43f9-8520-7d7863f8fd8a" name="Default Changelist" comment="" />
+    <list default="true" id="1ae2e021-8040-43f9-8520-7d7863f8fd8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ash256.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/ASH256Fomula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/ASH256Fomula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ljm/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ash256.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/ASH256BasicFom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/FileOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ljm/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ljm/Tools.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +27,10 @@
       </list>
     </option>
   </component>
+  <component name="GOROOT" path="E:\Program Files (x86)\goprogrom\go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1h1mjp68iMR3LAtrH2F85KfModi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,53 +47,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/SVN/fireReason/bladex-boot" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="ASH256Fomula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ljm.ASH256Fomula" />
-      <module name="SHA256" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ljm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ljm.FileUtil" />
-      <module name="SHA256" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ljm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalDataUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ljm.FinalDataUtil" />
-      <module name="SHA256" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ljm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ljm.Test" />
-      <module name="SHA256" />
+      <module name="ash256" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ljm.*" />
@@ -136,9 +118,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FileUtil" />
-        <item itemvalue="Application.ASH256Fomula" />
-        <item itemvalue="Application.FinalDataUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +133,7 @@
       <updated>1599187109608</updated>
       <workItem from="1599187112185" duration="28777000" />
       <workItem from="1599266223143" duration="20063000" />
+      <workItem from="1599311410549" duration="1064000" />
     </task>
     <servers />
   </component>
@@ -161,6 +141,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="467" y="69" key="#Test" timestamp="1599311570374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="69" key="#Test/0.0.1536.824@0.0.1536.824" timestamp="1599311570374" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599311679339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599311679339" />
     <state width="647" height="466" key="DebuggerActiveHint" timestamp="1599283009833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -169,21 +157,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599268706331" />
-    <state width="1877" height="411" key="GridCell.Tab.0.bottom" timestamp="1599285854925">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="34" key="GridCell.Tab.0.bottom" timestamp="1599312394871">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="34" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599312394871" />
     <state width="1877" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599285854925" />
-    <state width="1877" height="411" key="GridCell.Tab.0.center" timestamp="1599285854925">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="34" key="GridCell.Tab.0.center" timestamp="1599312394870">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="34" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599312394870" />
     <state width="1877" height="411" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599285854925" />
-    <state width="1877" height="411" key="GridCell.Tab.0.left" timestamp="1599285854925">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="34" key="GridCell.Tab.0.left" timestamp="1599312394870">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="34" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599312394870" />
     <state width="1877" height="411" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599285854925" />
-    <state width="1877" height="411" key="GridCell.Tab.0.right" timestamp="1599285854925">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="34" key="GridCell.Tab.0.right" timestamp="1599312394871">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="34" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599312394871" />
     <state width="1877" height="411" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599285854925" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599283373602">
       <screen x="0" y="0" width="1920" height="1040" />

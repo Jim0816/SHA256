@@ -320,4 +320,19 @@ public class ASH256Fomula {
         Long result = Long.parseLong(binaryString, 2);
         return result;
     }
+
+    /**
+     *二制转字符串转十六进制字符串
+     */
+    public static String binaryStrToHexStr(String binaryStr){
+        StringBuilder sb = new StringBuilder();
+        for(int i=0 ; i<binaryStr.length() ; i+=4){
+            String fourBinaryChars = binaryStr.substring(i,i+4);
+            int decimalNum = Integer.parseInt(fourBinaryChars,2);
+            String hexChar = Integer.toHexString(decimalNum);
+            sb.append(hexChar);
+        }
+        sb.reverse();
+        return sb.toString();
+    }
 }

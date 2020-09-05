@@ -15,7 +15,7 @@ public class Test {
 
     public static void main(String[] args) throws Exception {
         //1.准备好预处理和补位后的数据
-        String initData = FileUtil.readFile("C:\\Users\\Administrator\\Desktop\\data\\data2..txt");
+        String initData = FileUtil.readFile("F:\\test\\data.txt");
         String data = preprocessBinaryData(transformStringToBinary(initData));
         //2.将数据分块，每块大小为512bits
         String blocks[] = splitBlocks(data);
@@ -28,7 +28,7 @@ public class Test {
         for(int i=0 ; i<hash.length ; i++){
             code.append(hash[i]);
         }
-        FileUtil.writeToFile(code.toString(),"C:\\Users\\Administrator\\Desktop\\data\\code2.txt");
+        FileUtil.writeToFile(ASH256Fomula.binaryStrToHexStr(code.toString()),"F:\\test\\code.txt");
     }
 
     /**
